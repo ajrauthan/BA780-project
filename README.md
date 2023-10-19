@@ -1,6 +1,6 @@
 # BA780-project
 Global Gift Giving Behaviour Analysis
-by
+- by
 Aishwarya Rauthan
 Dhruv Shah
 Haaniya Umair
